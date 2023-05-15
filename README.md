@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/R0ae7rE.gif?maxwidth=760&fidelity=grand" width="2560" height="423">
+  <img src="https://i.imgur.com/R0ae7rE.gif?maxwidth=760&fidelity=grand" width="2000" height="380">
 </div>
 
 # ⚡About Me⚡
