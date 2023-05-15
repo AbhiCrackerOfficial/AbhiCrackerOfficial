@@ -1,26 +1,36 @@
 <div align="center">
-  <a href="https://AbhiCracker.com" target="_blank"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/98258595?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d" alt="Profile" />
-    <h1>Hey👋 Geeks</h1>
+  <img src="https://i.imgur.com/R0ae7rE.gif?maxwidth=760&fidelity=grand" width="2560" height="423">
 </div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
+# ⚡About Me⚡
+<a href="https://AbhiCracker.com" target="_blank"><img ALIGN="RIGHT" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/98258595?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d" alt="Profile" />
+</a>
   
-### ⚡About Me⚡
-I am Abhishek Kumar pursuing my Bachelors in Computer Science and Engineering
+- I am **Abhishek Kumar aka Abhi Cracker** pursuing my Bachelors in Computer Science and Engineering
+- 👨‍💻I enjoy developing Open Source Projects and am really enthusiastic about learning new technology
+- I have learnt C, C++, Python, Bash, Batch, HTML, CSS, and JS in 2023, till now.
+- Familiar with the Cloudflare environment, including SSL security, workers, domains, DNS, and other features.
+- ✨Whether it's a quick hack or a full-fledged project, I am always up for the challenge.
 
-👨‍💻I enjoy developing Open Source Projects and am really enthusiastic about learning new technology, I learnt C, C++, Python, HTML, CSS and bit about JS in 2023, till now.
+<br/>
 
-✨Whether it's a quick hack or a full-fledged project, I am always up for the challenge.
+## 💻 Tech Stack
+![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Follow](https://img.shields.io/github/followers/AbhiCrackerOfficial.svg?style=social&label=Follow&maxAge=2592000)
 
-# 📊 GitHub Stats:
+<br/>
+
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=AbhiCrackerOfficial&theme=calm&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbhiCrackerOfficial&theme=calm&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiCrackerOfficial&theme=calm&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+<br/>
+
+## ✍️ Some Motivation
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### ⚡You Can Contact me on⚡
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AbhiCracker001)
+<br/>
 
+## ⚡You Can Contact me on⚡
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AbhiCracker001)
