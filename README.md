@@ -8,8 +8,6 @@
   
 - I am **Abhishek Kumar aka Abhi Cracker** pursuing my Bachelors in Computer Science and Engineering
 - 👨‍💻I enjoy developing Open Source Projects and am really enthusiastic about learning new technology
-- I have learnt C, C++, Python, Bash, Batch, HTML, CSS, and JS in 2023, till now.
-- Familiar with the Cloudflare environment, including SSL security, workers, domains, DNS, and other features.
 - ✨Whether it's a quick hack or a full-fledged project, I am always up for the challenge.
 
 <br/>
