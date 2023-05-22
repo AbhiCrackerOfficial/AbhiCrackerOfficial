@@ -18,17 +18,32 @@
 
 <br/>
 
+<details markdown="1"> 
+<summary>
+
 ## 📊 GitHub Stats
+</summary>
+
 ![](https://github-readme-stats.vercel.app/api?username=AbhiCrackerOfficial&theme=calm&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbhiCrackerOfficial&theme=calm&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiCrackerOfficial&theme=calm&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <br/>
+</details>
+<details markdown="1"> 
+<summary>
 
 ## ✍️ Some Motivation
+</summary>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <br/>
+</details>
+<details markdown="1"> 
+<summary>
 
-## ⚡You Can Contact me on⚡
+## ⚡Contact⚡
+</summary>
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AbhiCracker001)
+
+</details>
