@@ -38,12 +38,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br/>
 </details>
-<details markdown="1"> 
-<summary>
 
 ## ⚡Contact⚡
-</summary>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AbhiCracker001)
-
-</details>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AbhiCracker001)&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:contact@abhicracker.com?subject=subject text"><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>
