@@ -41,4 +41,4 @@
 
 ## ⚡Contact⚡
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AbhiCracker001)&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:contact@abhicracker.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AbhiCracker001)&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:contact@abhishekkumar001.dev"><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>
