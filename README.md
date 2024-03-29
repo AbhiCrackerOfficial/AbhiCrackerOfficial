@@ -17,7 +17,7 @@
   <h1>
     [~]-$ <b><i>techStack</i></b>
   </h1>
-  <img src="https://github.abhicracker.com/ts" alt="Click to see the source">
+  <img src="https://github.abhicracker.com/techstack" alt="Click to see the source">
   </div>
 </div>
 <!-- TechStack - End -->
@@ -27,7 +27,7 @@
   <h1>
     [~]-$ <b><i>stats</i></b>
   </h1>
-  <img src="https://github.abhicracker.com/stas" alt="Click to see the source">
+  <img src="https://github.abhicracker.com/stats" alt="Click to see the source">
   </div>
 </div>
 <!-- Stats - End -->
@@ -37,7 +37,7 @@
   <h1>
     [~]-$ <b><i>contact</i></b>
   </h1>
-  <img src="https://github.abhicracker.com/cto" alt="Click to see the source">
+  <img src="https://github.abhicracker.com/contact" alt="Click to see the source">
   </div>
 </div>
 <!-- Contact - End -->
