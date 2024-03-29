@@ -37,7 +37,20 @@
   <h1>
     [~]-$ <b><i>contact</i></b>
   </h1>
-  <img src="https://github.abhicracker.com/contact" alt="Click to see the source">
-  </div>
+  <a style="text-decoration:none; color: inherit;" href="mailto:contact@abhishekkumar001.dev"><img src="https://github.abhicracker.com/email" alt="Click to see the source"></a>
+  <a style="text-decoration:none; color: inherit;" href="https://www.linkedin.com/in/abhishek-kumar-ac001/"><img src="https://github.abhicracker.com/linkedin" alt="Click to see the source"></a>
+  <a style="text-decoration:none; color: inherit;" href="https://t.me/AbhiCracker001"><img src="https://github.abhicracker.com/tg" alt="Click to see the source"></a>
 </div>
+<!-- Contact - End -->
+
+
+<!-- Contact - Start -->
+<!--<div align="center">
+  <h1>
+    [~]-$ <b><i>contact</i></b>
+  </h1>
+<a href="mailto:contact@abhishekkumar001.dev">
+  <img src="https://github.abhicracker.com/contact" alt="Click to see the source"></a>
+  </div>
+</div> -->
 <!-- Contact - End -->
