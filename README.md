@@ -40,5 +40,4 @@
 </details>
 
 ## ⚡Contact⚡
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AbhiCracker001)&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:contact@abhishekkumar001.dev"><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>
+<a href="mailto:contact@abhishekkumar001.dev"><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/abhishek-kumar-ac001/" ><img src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" height="30" width="30"></a>
