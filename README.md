@@ -2,13 +2,15 @@
   <img src="https://i.imgur.com/R0ae7rE.gif?maxwidth=760&fidelity=grand" width="1842.1" height="380">
 </div>
 
-# ⚡About Me⚡
-<a href="https://AbhiCracker.com" target="_blank"><img ALIGN="RIGHT" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/98258595?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d" alt="Profile" />
-</a>
-  
-- I am **Abhishek Kumar aka Abhi Cracker** pursuing my Bachelors in Computer Science and Engineering
-- 👨‍💻I enjoy developing Open Source Projects and am really enthusiastic about learning new technology
-- ✨Whether it's a quick hack or a full-fledged project, I am always up for the challenge.
+<!-- Introduction - Start -->
+<div align="center">
+  <h1>
+    [~]-$ <b><i>whoami</i></b>
+  </h1>
+  <img src="https://github.abhicracker.com/int" alt="Click to see the source">
+  </div>
+</div>
+<!-- Introduction - End -->
 
 <br/>
 
