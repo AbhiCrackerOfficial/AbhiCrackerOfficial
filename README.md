@@ -30,6 +30,16 @@
   <img src="https://github.abhicracker.com/statistics">
   </div>
 </div>
+
+<!-- Snake Anim -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhiCrackerOfficial/AbhiCrackerOfficial/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhiCrackerOfficial/AbhiCrackerOfficial/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbhiCrackerOfficial/AbhiCrackerOfficial/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+<!--            -->
 <!-- Stats - End -->
 
 <!-- Contact - Start -->
@@ -42,6 +52,7 @@
   <a style="text-decoration:none; color: inherit;" href="https://t.me/AbhiCracker001"><img src="https://github.abhicracker.com/tg" ></a>
 </div>
 <!-- Contact - End -->
+
 
 
 <!-- Contact - Start -->
