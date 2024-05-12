@@ -7,7 +7,7 @@
   <h1>
     [~]-$ <b><i>whoami</i></b>
   </h1>
-  <img src="https://github.abhicracker.com/whoami" alt="Click to see the source">
+  <img src="https://github.abhicracker.com/whoami">
   </div>
 </div>
 <!-- Introduction - End -->
@@ -17,7 +17,7 @@
   <h1>
     [~]-$ <b><i>techStack</i></b>
   </h1>
-  <img src="https://github.abhicracker.com/techstack" alt="Click to see the source">
+  <img src="https://github.abhicracker.com/techstack">
   </div>
 </div>
 <!-- TechStack - End -->
@@ -27,7 +27,7 @@
   <h1>
     [~]-$ <b><i>stats</i></b>
   </h1>
-  <img src="https://github.abhicracker.com/stats" alt="Click to see the source">
+  <img src="https://github.abhicracker.com/stats">
   </div>
 </div>
 <!-- Stats - End -->
@@ -37,9 +37,9 @@
   <h1>
     [~]-$ <b><i>contact</i></b>
   </h1>
-  <a style="text-decoration:none; color: inherit;" href="mailto:contact@abhishekkumar001.dev"><img src="https://github.abhicracker.com/email" alt="Click to see the source"></a>
-  <a style="text-decoration:none; color: inherit;" href="https://www.linkedin.com/in/abhishek-kumar-ac001/"><img src="https://github.abhicracker.com/linkedin" alt="Click to see the source"></a>
-  <a style="text-decoration:none; color: inherit;" href="https://t.me/AbhiCracker001"><img src="https://github.abhicracker.com/tg" alt="Click to see the source"></a>
+  <a style="text-decoration:none; color: inherit;" href="mailto:contact@abhishekkumar001.dev"><img src="https://github.abhicracker.com/email" ></a>
+  <a style="text-decoration:none; color: inherit;" href="https://www.linkedin.com/in/abhishek-kumar-ac001/"><img src="https://github.abhicracker.com/linkedin" ></a>
+  <a style="text-decoration:none; color: inherit;" href="https://t.me/AbhiCracker001"><img src="https://github.abhicracker.com/tg" ></a>
 </div>
 <!-- Contact - End -->
 
