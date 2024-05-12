@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - AbhiCrackerOfficial
+  schedule:
+    - cron: '0 */6 * * *'  # Trigger every 6 hours
 
 jobs:
   purge_images:
