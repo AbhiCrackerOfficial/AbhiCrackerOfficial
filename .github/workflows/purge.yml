@@ -1,12 +1,17 @@
 name: Grep and Purge Camo Images
 
 on:
-  schedule:
-    - cron: '0 */6 * * *'  # Trigger every 6 hours
+  schedule: # execute every 6 hours
+    - cron: "0 */6 * * *"
+
+  workflow_dispatch:
 
 jobs:
   purge_images:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
     - name: Checkout code
@@ -15,5 +20,5 @@ jobs:
     - name: Find and Purge Camo Images
       shell: bash
       run: |
-        urls=$(curl -sLk https://github.com/${{github.repository_owner}}/${{ github.event.repository.name }}/tree/AbhiCrackerOfficial|grep -Eo "(http|https)://camo.githubusercontent.com[a-zA-Z0-9./?=_%:-]*")
+        urls=$(curl -sLk https://github.com/${{github.repository_owner}}/${{ github.repository }}/tree/AbhiCrackerOfficial|grep -Eo "(http|https)://camo.githubusercontent.com[a-zA-Z0-9./?=_%:-]*")
         while IFS= read -r line; do curl -X PURGE $line ; done <<< $urls
