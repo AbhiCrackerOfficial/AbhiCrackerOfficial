@@ -17,8 +17,9 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Find and Purge Camo Images
+    - name: Grep and Purge all camo github user content images
       shell: bash
       run: |
-        urls=$(curl -sLk https://github.com/${{github.repository_owner}}/${{ github.repository }}/tree/AbhiCrackerOfficial|grep -Eo "(http|https)://camo.githubusercontent.com[a-zA-Z0-9./?=_%:-]*")
+        urls=$(curl -sLk https://github.com/${{github.repository_owner}}/${{ github.event.repository.name }}/tree/${{ steps.branch-name.outputs.current_branch }}|grep -Eo "(http|https)://camo.githubusercontent.com[a-zA-Z0-9./?=_%:-]*")
+
         while IFS= read -r line; do curl -X PURGE $line ; done <<< $urls
