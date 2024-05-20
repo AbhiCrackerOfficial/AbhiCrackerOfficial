@@ -27,7 +27,7 @@
   <h1>
     [~]-$ <b><i>stats</i></b>
   </h1>
-  <img src="https://github.abhicracker.com/stat">
+  <img src="https://github.abhicracker.com/statistics">
   </div>
 </div>
 
